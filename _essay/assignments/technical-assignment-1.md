@@ -1,5 +1,5 @@
 ---
-title: Technical Assignment 1: Printing a 3D image from the web
+title: Technical Assignment 1 Printing a 3D image from the web
 order: 8
 part: Assignments
 ---
