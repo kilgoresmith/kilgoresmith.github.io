@@ -8,8 +8,8 @@ I lived (on and off) for more than two decades in Boudha, a neighborhood in east
 
 To get the image, I located and cut out the stupa from terraprinter.com.
 
-(Top view locating the Boudha Stupa on terraprint.com)[https://kilgoresmith.github.io/assets/img/terraprint_boudha_top.png]
+[Top view locating the Boudha Stupa on terraprint.com](https://kilgoresmith.github.io/assets/img/terraprint_boudha_top.png)
 
-(Drawing the line to cut out the Boudha Stupa from terraprint.com)[https://kilgoresmith.github.io/assets/img/terraprint_boudha_capture.png]
+[Drawing the line to cut out the Boudha Stupa from terraprint.com](https://kilgoresmith.github.io/assets/img/terraprint_boudha_capture.png)
 
 
